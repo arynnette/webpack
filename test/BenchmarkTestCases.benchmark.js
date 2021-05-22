@@ -1,4 +1,5 @@
 "use strict";
+//rjwwbfiewnfokwnfownfkfo[qengjorengorwngo[rwenko[wnkfoewnofnwejognrwejogrkfndso[fnwjo[nrwjogboqr]]]]]
 
 const path = require("path");
 const fs = require("graceful-fs");
